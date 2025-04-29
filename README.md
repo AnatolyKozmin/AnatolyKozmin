@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnatolyKozmin
 - 👀 I’m interested in fullstack dev
-- 🌱 I’m currently learning Goolang
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
   mail: anatolii.kozmin@inbox.ru
